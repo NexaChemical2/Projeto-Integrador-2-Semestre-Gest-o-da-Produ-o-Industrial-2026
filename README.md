@@ -6,10 +6,10 @@ O Aprendizado por Projeto Integrador configura-se como uma metodologia de ensino
 
 # Índice
 * [Objetivo do Projeto](#Objetivo-do-Projeto)
-* [Equipe]
-* [Product Backlog]
-* [Competências Desenvolvidas]
-* [Registro das Sprints]
+* [Equipe](#Equipe)
+* [Product Backlog](#Product-Backlog)
+* [Competências Desenvolvidas](Competências-Desenvolvidas)
+* [Registro das Sprints](#Registro-das-Sprints)
 
 # Projeto (API)
 
