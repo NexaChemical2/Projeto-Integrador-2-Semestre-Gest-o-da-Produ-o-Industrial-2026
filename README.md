@@ -5,6 +5,11 @@
 O Aprendizado por Projeto Integrador configura-se como uma metodologia de ensino-aprendizagem que tem por finalidade promover a articulação entre a teoria e a prática, permitindo que os alunos trabalhem em equipe no desenvolvimento de projetos que envolvem diferentes áreas do conhecimento. A proposta incentiva a implementação de conceitos construídos ao longo da formação para resolver problemas reais (RPBL), validação externa e mentalidade ágil. Além de incentivar a desenvoltura de competências como a autonomia, proatividade, colaboração e o foco em resultados, principalmente quando associadas ao uso de metodologias ágeis de gestão, como o SCRUM.
 
 # Índice
+* [Objetivo do Projeto](#Objetivo-do-Projeto)
+* [Equipe]
+* [Product Backlog]
+* [Competências Desenvolvidas]
+* [Registro das Sprints]
 
 # Projeto (API)
 
@@ -23,27 +28,35 @@ O projeto tem como objetivo desenvolver uma plataforma de Business Intelligence 
 
 # Objetivo do Projeto
 
-Desenvolver um dashboard interativo que integre dados do RAIS (Relação Anual de Informaçẽos Sociais) para mapear o ecossistema industrial de tecnologia e inovação, como foco nas indústrias químicas de São José dos Campos. O sistema deve oferecer dados sólidos evidenciando o (em construção).
+Desenvolver um observatório interativo (dashboard) que inetgre os dados da RAIS (Relação Anual de Informações Sociais), ABIQUIM (Associação Brasileira da Indústria Química), CIESP (Centro das Indústrias do Estado de São Paulo) e PIT (Parque de Inovação Tecnológica São José dos Campos), para mapear o ecossistema industrial de tecnologia e inovação, com foco nas indústrias químicas de São José dos Campos. O sistema deve oferecer dados sólidos evidenciando a conexões e parcerias das organizações do PIT, e como a tecnologia e inovação tem de mostrado no município. 
 
 # Tecnologias Utilizadas
 
-* GitHub
-* Google Colab
-* Pacote Office
-* Microsoft Power BI
+* Github
 * Google BigQuery
+* Microsoft Power BI
+* Pacote Office
+* VS Code
 
 # Product Backlog
 
 | Rank | Prioridade | User Storie | Sprint |
 | ------ | ----------- | ----------- | ------- |
+| 1 | Alta | Como analista de dados, quero dispor de uma base de dados centralizada, limpa e padronizada das organizações do PIT SJC, para utilizá-la como fonte confiável de informações para o observatório. | 1 |
+| 2 | Alta | Como gestor de uma organização do PIT (Parque de Inovação Tecnológica São José dos Campos), quero validar o escopo, os objetivos e os dados que serão fornecidos pelo observatório, para que a solução final atenda às necessidades do negócio e do ecossistema local. | 1 |
+| 3 | Média | Como usuário do observatório, quero acessar uma página inicial clara, intuitiva e visualmente organizada, para compreender rapidamente a proposta da plataforma e navegar facilmente pelas principais funcionalidades. | 2 |
+| 4 | Média | Como usuário do observatório, quero visualizar as organizações que compõem o ecossistema do PIT (Parque de Inovação Tecnológica São José dos Campos), organizada por clusters, áreas de atuação e competências, para compreender como o ecossistema está estruturado. | 2 |
+| 5 | Baixa | Como usuário do observatório, quero acessar o perfil detalhado de uma organização, contendo informações relevantes sobre sua atuação, competências e tecnologias, para compreender melhor seu potencial de conexão e parceria. | 3 |
+| 6 | Baixa | Como usuário do observatório, quero pesquisar por tecnologia, competência ou área de atuação, para identificar rapidamente as organizações do ecossistema relacionadas ao tema pesquisado. | 3 |
+| 7 | Baixa | Como usuário do observatório, quero visualizar as relações entre organizações, startups, instituições de ensino e pesquisa e suas tecnologias ou competências, para identificar as principais conexões, complementariedades e oportunidades de parceria. | 3 |
+| 8 | Baixa | Como usuário do observatório, quero visualizar as principais conexões existentes entre os atores do ecossistema, para identificar as organizações que participam de projetos, setores, tecnologias ou redes em comum. | 3 |
 
 
 # Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                |  |  |  |
-| 02                |  |  |  |
-| 03                |  |   |  |
-| Feira de Soluções |  |   |  |
+| 01                | 28/09/2026 | Concluído|  |
+| 02                | 26/10/2026 | Em Andamento  |  |
+| 03                | 23/11/2026 | Aguardando início |  |
+| Feira de Soluções |  | Aguardando início |  |
