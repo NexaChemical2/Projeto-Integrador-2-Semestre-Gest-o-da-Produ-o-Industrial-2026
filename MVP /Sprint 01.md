@@ -68,3 +68,4 @@
 
 ## 📂 Anexos / Evidências
 
+<img width="1062" height="748" alt="Captura de tela 2026-10-06 191827" src="https://github.com/user-attachments/assets/89d5b0dc-a573-4b23-851e-bf329293d884" />
