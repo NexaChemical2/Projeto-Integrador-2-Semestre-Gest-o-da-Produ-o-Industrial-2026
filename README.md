@@ -57,6 +57,6 @@ Desenvolver um observatório interativo (dashboard) que inetgre os dados da RAIS
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 28/09/2026 | Concluído | [MVP](MVP/Sprint1.md) |
-| 02                | 26/10/2026 | Em Andamento |  |
+| 02                | 26/10/2026 | Em Andamento | [MVP](MVP/Sprint2.md)  |
 | 03                | 23/11/2026 | Aguardando início |  |
 | Feira de Soluções | 03/12/2026 | Aguardando início |  |
