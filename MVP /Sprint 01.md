@@ -14,7 +14,7 @@
   - Estrutura inicial do Product Backlog
   - Primeira visualização dos dados
   - Integração preliminar com as bases utilizadas.
-- **Limitações:** 
+- **Limitações:** Dados do Parque de Inovação Tecnológica de São José dos Campos (PIT) apresentam endereços incompletos e sem padronização, exigindo a consulta e integração de fontes externas para complementar as informações.
 - **Escopo reduzido:** Realização do Tratamento de Dados.
 
 ---
