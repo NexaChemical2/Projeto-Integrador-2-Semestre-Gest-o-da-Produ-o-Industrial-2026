@@ -33,24 +33,26 @@
 
 | Rank | Prioridade | User Storie | Sprint |
 | ------ | ----------- | ----------- | ------- |
-| 1 | Alta | Como analista de dados, quero dispor de uma base de dados centralizada, limpa e padronizada das organizações do PIT (Parque de Inovação Tecnológica São José dos Campos), para utilizá-la como fonte confiável de informações para o observatório. | 1 |
-| 2 | Alta | Como gestor de uma organização do PIT (Parque de Inovação Tecnológica São José dos Campos), quero validar o escopo, os objetivos e os dados que serão fornecidos pelo observatório, para que a solução final atenda às necessidades do negócio e do ecossistema local. | 1 |
+| 3 | Média | Como usuário do observatório, quero acessar uma página inicial clara, intuitiva e visualmente organizada, para compreender rapidamente a proposta da paltaforma e navegar facilmente pelas principais funcionalidades.  | 2 |
+| 4 | Média | Como usuário do observatório quero visualizar as organizações que compõe o ecossitema do PIT (Parque de Inovação Técnológica São José dos Campos) organizada por clusters, área de atuação e competência, para compreender como o ecossitema está estruturado. | 2 |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Disponibilização do Product Backlog | Concluído |
-| 02     | Limpeza e Padronização das bases de dados | Concluído |
+| 03     | Vizualiçao clara e intuitiuva do observatório  | Concluído |
+| 04     | Filtragem das organizações que compõe o ecossistema  | Concluído |
 
 ---
 
 ## 📊 Critérios de Aceitação
 
-- O MVP deve permitir que o usuário visualize e analise o Product Backlog desenvolvido, possibilitando avaliar se as funcionalidades propostas atendem às suas necessidades e aos requisitos identificados.
-- O sistema deve disponibilizar bases de dados centralizadas, limpas e padronizadas, garantindo a confiabilidade das informações e contribuindo para o funcionamento eficiente e o desenvolvimento do observatório.
-- Métricas coletadas: tempo de resposta, uso de filtros, frequência de comparações, visualizações e exportações, e tempo médio de uso.
+- O MVP deve permitir que o usuário acesse e explore a tela inicial do Observatório, avaliando se as funcionalidades implementadas atendem às necessidades identificadas.
+- Os dados apresentados devem estar organizados, tratados e disponíveis em visualizações que facilitem sua compreensão.
+- O sistema deve disponibilizar filtros funcionais para a exploração das informações e a seleção das organizações que compõem o ecossistema.
+- A aplicação dos filtros deve atualizar as visualizações correspondentes de maneira consistente com os critérios selecionados.
+- A interface deve apresentar as informações de forma clara e intuitiva, permitindo que o usuário compreenda os principais elementos do painel.
 
 ---
 
@@ -68,5 +70,6 @@
 ---
 
 ## 📂 Anexos / Evidências
+<img width="1600" height="936" alt="WhatsApp Image 2026-10-26 at 19 48 49" src="https://github.com/user-attachments/assets/81b1c91d-908b-4ab5-baf1-4a08a36ac276" />
 
-<img width="1062" height="748" alt="Captura de tela 2026-10-06 191827" src="https://github.com/user-attachments/assets/89d5b0dc-a573-4b23-851e-bf329293d884" /> **
+ **
