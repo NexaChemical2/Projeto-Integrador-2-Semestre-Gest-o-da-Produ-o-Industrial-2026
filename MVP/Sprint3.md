@@ -34,8 +34,9 @@
 | Rank | Prioridade | User Storie | Sprint |
 | ------ | ----------- | ----------- | ------- |
 | 5 | Baixa | Como usuário do Observatório, quero acessar o perfil detalhado de uma organização contendo informações relevantes sobre sua atuação, competências e tecnologias para compreender melhor seu potencial de conexão e parceria.   | 3 |
-| 6 | Baixa | Como usuário do observatório quero pesquisar por tecnologia, competência ou área de atuação, para identificar rapidamente as organizações do ecossistema relacionadas ao tema pesquisado. | 3 |
-| 7 | Baixa | Como usuário do Observatório, quero visualizar as relações entre as organizações, startups, instituições de ensino e pesquisa e suas  .   | 3 |
+| 6 | Baixa | Como usuário do Observatório, quero pesquisar por tecnologia, competência ou área de atuação, para identificar rapidamente as organizações do ecossistema relacionadas ao tema pesquisado. | 3 |
+| 7 | Baixa | Como usuário do Observatório, quero visualizar as relações entre as organizações, startups, instituições de ensino e pesquisa e suas tecnologias ou competência, para identificar potenciais conexões complementares e oportunidades de parceria.   | 3 |
+| 8 | Baixa | Como usuário do Observatório, quero visualizar as principais conexões existentes entre os atores do ecossistema, para identificar organizações que participam de projetos, setores, tecnologias ou redes em comum. | 3 |
 
 ---
 
