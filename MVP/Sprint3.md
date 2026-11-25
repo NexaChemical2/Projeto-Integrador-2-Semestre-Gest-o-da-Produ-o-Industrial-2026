@@ -33,8 +33,9 @@
 
 | Rank | Prioridade | User Storie | Sprint |
 | ------ | ----------- | ----------- | ------- |
-| 3 | Média | Como usuário do observatório, quero acessar uma página inicial clara, intuitiva e visualmente organizada, para compreender rapidamente a proposta da paltaforma e navegar facilmente pelas principais funcionalidades.  | 2 |
-| 4 | Média | Como usuário do observatório quero visualizar as organizações que compõe o ecossitema do PIT (Parque de Inovação Técnológica São José dos Campos) organizada por clusters, área de atuação e competência, para compreender como o ecossitema está estruturado. | 2 |
+| 5 | Baixa | Como usuário do Observatório, quero acessar o perfil detalhado de uma organização contendo informações relevantes sobre sua atuação, competências e tecnologias para compreender melhor seu potencial de conexão e parceria.   | 3 |
+| 6 | Baixa | Como usuário do observatório quero pesquisar por tecnologia, competência ou área de atuação, para identificar rapidamente as organizações do ecossistema relacionadas ao tema pesquisado. | 3 |
+| 7 | Baixa | Como usuário do Observatório, quero visualizar as relações entre as organizações, startups, instituições de ensino e pesquisa e suas  .   | 3 |
 
 ---
 
